@@ -44,6 +44,32 @@ My research interest includes:
 
 # 📝 Publications 
 
+## Spatiotemporal Point Cloud Processing
+
+<div class="publication-card">
+  <h3>Learning Canonical Embeddings for Unsupervised Shape Correspondence</h3>
+  <p><strong>Authors:</strong> Pan He, Patrick Emami, Sanjay Ranka, Anand Rangarajan</p>
+  <p><strong>Published in:</strong> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p>
+  <div class="publication-links">
+    <a href="#" class="btn">Paper</a>
+    <a href="#" class="btn">Abstract</a>
+    <a href="#" class="btn">Project page</a>
+    <a href="#" class="btn">Bibtex</a>
+  </div>
+</div>
+
+<div class="publication-card">
+  <h3>Self-Supervised Robust Scene Flow Estimation via the Alignment of Probability Density Functions</h3>
+  <p><strong>Authors:</strong> Pan He, Patrick Emami, Sanjay Ranka, Anand Rangarajan</p>
+  <p><strong>Published in:</strong> AAAI Conference on Artificial Intelligence (AAAI), 2022</p>
+  <div class="publication-links">
+    <a href="#" class="btn">Paper</a>
+    <a href="#" class="btn">Abstract</a>
+    <a href="#" class="btn">Project page</a>
+    <a href="#" class="btn">Bibtex</a>
+  </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
