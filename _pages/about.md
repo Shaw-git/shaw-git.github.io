@@ -19,7 +19,10 @@ redirect_from:
 
 I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Dr. Dong Zhang. My research interests lie in applying deep learning to solve practical problems. In particular, I have been developing deep learning models in the applications of computer vision. I am also broadly interested in questions related to programming and engineering. My current research focuses on smart traffic analysis and management based on LIDAR and ground sensor data.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes
+- Vision-based pose estimation
+- Unsupervised Learning for image and point cloud data 
+- Error bounded lossy data compression
 
 
 # 🔥 News
