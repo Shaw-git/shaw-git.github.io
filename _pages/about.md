@@ -26,7 +26,7 @@ My research interest includes:
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper *Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds* has been accepted by IEEE BigData 2024. 
+- *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted by IEEE BigData 2024. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
