@@ -1,3 +1,4 @@
+## Machine Learning Method for Data Compression with Guaranteed Error Bound
 <div class="publication-card">
     <strong>Title:</strong> Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds<br>
     <strong>Authors:</strong> Xiao Li, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
