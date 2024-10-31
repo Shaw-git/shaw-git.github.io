@@ -27,8 +27,9 @@ My research interest includes:
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted by IEEE BigData 2024. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted in **"IEEE BigData 2024"**. 
+- *2023.07*: &nbsp;🎉🎉 Our paper  **"A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications"** has been accepted in **"ITSC"**.
+- *2023.03*: &nbsp;🎉🎉 Our paper  **"An Efficient Semi-Automated Scheme for LiDAR Annotation and A Benchmark Infrastructure Dataset"** has been accepted in **"ICLR ML4IoT"**.
 
 # 📝 Publications 
 
