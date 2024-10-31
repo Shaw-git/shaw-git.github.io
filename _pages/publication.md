@@ -1,9 +1,9 @@
 # _pages/publication.md
 
 <div class="publication-card">
-    <strong>Title:</strong> Learning Canonical Embeddings for Unsupervised Shape Correspondence with Locally Linear Transformations<br>
-    <strong>Authors:</strong> Pan He, Patrick Emami, Sanjay Ranka, Anand Rangarajan<br>
-    <strong>Published in:</strong> IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<br>
+    <strong>Title:</strong> Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds<br>
+    <strong>Authors:</strong> Xiao Li, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
+    <strong>Published in:</strong> 2024 IEEE International Conference on Big Data (TPAMI)<br>
     <div class="publication-links">
         <a href="#" class="btn">Paper</a>
         <a href="#" class="btn">Abstract</a>
