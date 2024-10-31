@@ -35,6 +35,13 @@ My research interest includes:
 - *2023.03*: &nbsp;🎉🎉 Our paper  **"An Efficient Semi-Automated Scheme for LiDAR Annotation and A Benchmark Infrastructure Dataset"** has been accepted in **ICLR ML4IoT**.
 - *2022.11*: &nbsp;🎉🎉 Our paper  **"Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network"** has been accepted in **IEEE Transactions on Multimedia**.
 - *2021.09*: &nbsp;🎉🎉 Our paper  **"Concurrent Two-factor Identify Verification Using Facial Identify and Facial Actions"** has been accepted in **Electronic Imaging**.
+
+# 📖 Educations
+- *2021.08 - Present*, Ph.D. Student in Computer Science. 
+- *2018.08 - 2020.08*, M.S. in Electronics and Communication.
+- *2014.08 - 2018.08*, B.S. in Communication Engineering.
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -58,10 +65,7 @@ My research interest includes:
 - *2018.09* Second Class Scholarship
 - *2016.09* MCM/ICM Contest Meritorious Winner
 
-# 📖 Educations
-- *2021.08 - Present*, Ph.D. Student in Computer Science. 
-- *2018.08 - 2020.08*, M.S. in Electronics and Communication.
-- *2014.08 - 2018.08*, B.S. in Communication Engineering. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
