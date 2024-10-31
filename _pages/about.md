@@ -27,14 +27,14 @@ My research interest includes:
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted in **"IEEE BigData 2024"**.
-- *2024.04*: &nbsp;🎉🎉 Our paper **"An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation" has been accepted"** has been accepted in **"IEEE Transactions on Intelligent Transportation Systems"**.
-- *2024.01*: &nbsp;🎉🎉 Our paper **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** has been accepted in **"Data Compression Conference"**.
-- *2023.07*: &nbsp;🎉🎉 Our paper  **"A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications"** has been accepted in **"IEEE Intelligent Transportation Systems Conference"**.
-- *2023.05*: &nbsp;🎉🎉 Our paper  **"Computer-aided autism spectrum disorder diagnosis with behavior signal processing"** has been accepted in **"IEEE Transactions on Affective Computing"**.
-- *2023.03*: &nbsp;🎉🎉 Our paper  **"An Efficient Semi-Automated Scheme for LiDAR Annotation and A Benchmark Infrastructure Dataset"** has been accepted in **"ICLR ML4IoT"**.
-- *2022.11*: &nbsp;🎉🎉 Our paper  **"Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network"** has been accepted in **"IEEE Transactions on Multimedia"**.
-- *2021.09*: &nbsp;🎉🎉 Our paper  **"Concurrent Two-factor Identify Verification Using Facial Identify and Facial Actions"** has been accepted in **"Electronic Imaging "**.
+- *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted in **IEEE BigData 2024**.
+- *2024.04*: &nbsp;🎉🎉 Our paper **"An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation" has been accepted"** has been accepted in **IEEE Transactions on Intelligent Transportation Systems**.
+- *2024.01*: &nbsp;🎉🎉 Our paper **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** has been accepted in **Data Compression Conference**.
+- *2023.07*: &nbsp;🎉🎉 Our paper  **"A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications"** has been accepted in **IEEE Intelligent Transportation Systems Conference**.
+- *2023.05*: &nbsp;🎉🎉 Our paper  **"Computer-aided autism spectrum disorder diagnosis with behavior signal processing"** has been accepted in **IEEE Transactions on Affective Computing**.
+- *2023.03*: &nbsp;🎉🎉 Our paper  **"An Efficient Semi-Automated Scheme for LiDAR Annotation and A Benchmark Infrastructure Dataset"** has been accepted in **ICLR ML4IoT**.
+- *2022.11*: &nbsp;🎉🎉 Our paper  **"Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network"** has been accepted in **IEEE Transactions on Multimedia**.
+- *2021.09*: &nbsp;🎉🎉 Our paper  **"Concurrent Two-factor Identify Verification Using Facial Identify and Facial Actions"** has been accepted in **Electronic Imaging**.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
