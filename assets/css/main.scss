@@ -111,24 +111,27 @@ h1:before, .anchor:before {
 
 .publication-card {
     border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    margin: 15px 0;
+    border-radius: 6px;
+    padding: 10px; // Reduced padding
+    margin: 10px 0; // Reduced margin
     background-color: #f9f9f9;
+    font-size: 0.9em; // Slightly smaller font for compactness
 }
 
 .publication-links {
-    margin-top: 10px;
+    margin-top: 5px; // Reduced margin to tighten spacing
 }
 
 .btn {
     display: inline-block;
-    padding: 8px 15px;
-    margin: 5px 5px 0 0;
+    padding: 6px 12px; // Reduced padding in buttons
+    margin: 4px 4px 0 0; // Reduced margin for buttons
     background-color: #d9534f;
     color: white;
     border-radius: 4px;
     text-decoration: none;
+    font-size: 0.85em; // Slightly smaller button font size
+    cursor: pointer;
 }
 
 .btn:hover {
