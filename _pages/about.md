@@ -44,7 +44,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-## Spatiotemporal Point Cloud Processing
+
 
 {% capture publication_content %}
 {% include_relative publication.md %}
