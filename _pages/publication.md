@@ -28,7 +28,7 @@
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Qian Gong, Jaemoon Lee, Scott Klasky, Anand Rangarajan, Sanjay Ranka<br>
     <strong>Published in:</strong> Under Review of AAAI 2025<br>
     <div class="publication-links">
-        <a href="#" class="btn">Paper</a>
+        <a href="https://arxiv.org/abs/2405.00879" class="btn">Paper</a>
         <a href="#" class="btn">Abstract</a>
         <a href="#" class="btn">Project page</a>
         <a href="#" class="btn">Bibtex</a>
