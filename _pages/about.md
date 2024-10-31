@@ -47,8 +47,11 @@ My research interest includes:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* Gartner Group Graduate Fellowship
+- *2020.06* Outstanding Graduate
+- *2019.09* First Class Scholarship
+- *2018.09* Second Class Scholarship
+- *2016.09* MCM/ICM Contest Meritorious Winner
 
 # 📖 Educations
 - *2021.08 - Present*, Ph.D. Student in Computer Science. 
