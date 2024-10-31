@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Dr. Dong Zhang. My research interests lie in applying deep learning to solve practical problems. In particular, I have been developing deep learning models in the applications of computer vision. I am also broadly interested in questions related to programming and engineering. My current research focuses on smart traffic analysis and management based on LIDAR and ground sensor data.
+I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Dr. Dong Zhang. My research interests lie in applying deep learning to solve practical problems. In particular, I have been developing deep learning models in the applications of computer vision. 
 
-My research interest includes
+My research interest includes:
 - Vision-based pose estimation
-- Unsupervised Learning for image and point cloud data 
+- Unsupervised Learning
 - Error bounded lossy data compression
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 Our paper *Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds* has been accepted by IEEE BigData 2024. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
