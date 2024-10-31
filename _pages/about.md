@@ -21,8 +21,9 @@ I am currently a Ph.D. student at the University of Florida under the supervisio
 
 My research interest includes:
 - Vision-based pose estimation
-- Unsupervised Learning
+- Unsupervised learning
 - Error bounded lossy data compression
+- Generative AI
 
 
 # 🔥 News
@@ -50,8 +51,9 @@ My research interest includes:
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08 - Present*, Ph.D. Student in Computer Science. 
+- *2018.08 - 2020.08*, M.S. in Electronics and Communication.
+- *2014.08 - 2018.08*, B.S. in Communication Engineering. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
