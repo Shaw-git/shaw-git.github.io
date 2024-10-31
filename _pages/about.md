@@ -29,6 +29,7 @@ My research interest includes:
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted in **IEEE BigData 2024**.
 - *2024.04*: &nbsp;🎉🎉 Our paper **"An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation" has been accepted"** has been accepted in **IEEE Transactions on Intelligent Transportation Systems**.
+- *2024.03*: &nbsp;🥇🥇 Congratulations to Xiao Li on being selected as the Gartner Group Graduate Fellowship recipient at UFL!
 - *2024.01*: &nbsp;🎉🎉 Our paper **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** has been accepted in **Data Compression Conference**.
 - *2023.07*: &nbsp;🎉🎉 Our paper  **"A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications"** has been accepted in **IEEE Intelligent Transportation Systems Conference**.
 - *2023.05*: &nbsp;🎉🎉 Our paper  **"Computer-aided autism spectrum disorder diagnosis with behavior signal processing"** has been accepted in **IEEE Transactions on Affective Computing**.
