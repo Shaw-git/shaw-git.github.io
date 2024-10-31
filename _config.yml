@@ -12,7 +12,7 @@ repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  sMdvba0AAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "sMdvba0AAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Xiao Li (Shaw)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "University of Florida"
+  location         : "Gainesville, FL"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=sMdvba0AAAAJ"
   email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
