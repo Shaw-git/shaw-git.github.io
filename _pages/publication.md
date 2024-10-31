@@ -38,7 +38,7 @@
 <div class="publication-card">
     <strong>Title:</strong> Machine Learning Techniques for Data Reduction of CFD Applications<br>
     <strong>Authors:</strong> Jaemoon Lee, Ki Sung Jung, Qian Gong, <span style="color: red;">Xiao Li</span>, Scott Klasky, Jacqueline Chen, Anand Rangarajan, Sanjay Ranka<br>
-    <strong>Published in:</strong> Arxiv 2024<br>
+    <strong>Published in:</strong> Under Review of The International Conference on Contemporary Computing (I3C) 2025<br>
     <div class="publication-links">
         <a href="#" class="btn">Paper</a>
         <a href="#" class="btn">Abstract</a>
