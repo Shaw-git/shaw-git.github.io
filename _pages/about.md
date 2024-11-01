@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Prof. Dong Zhang. My research focuses on applying deep learning to solve practical problems, particularly in computer vision. Currently, I am working on developing foundational models for lossy image compression using conditional diffusion.
+I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Prof. Dong Zhang. My research focuses on applying deep learning to solve practical problems. Currently, I am working on developing foundational models for lossy image compression using conditional diffusion.
 
 My research interest includes:
 - Smart transportation
