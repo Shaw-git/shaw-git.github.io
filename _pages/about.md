@@ -40,10 +40,17 @@ My research interest includes:
 - *2022.11*: &nbsp;🎉🎉 Our paper  **"Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network"** has been accepted in **IEEE Transactions on Multimedia**.
 - *2021.09*: &nbsp;🎉🎉 Our paper  **"Concurrent Two-factor Identify Verification Using Facial Identify and Facial Actions"** has been accepted in **Electronic Imaging**.
 
-# 📖 Educations
-- *2021.08 - Present*, Ph.D. Student in Computer Science. 
-- *2018.08 - 2020.08*, M.S. in Electronics and Communication.
-- *2014.08 - 2018.08*, B.S. in Communication Engineering.
+# 📖 Education
+
+- *2021.08 - Present*: Ph.D. Student in Computer Science, University of Florida  
+  ![UF Logo](path/to/uf_logo.png) <!-- Replace with the path to the University of Florida logo -->
+  
+- *2018.08 - 2020.08*: M.S. in Electronics and Communication, Sun Yat-sen University  
+  ![SYSU Logo](path/to/sysu_logo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
+
+- *2014.08 - 2018.08*: B.S. in Communication Engineering, Sun Yat-sen University  
+  ![SYSU Logo](path/to/sysu_logo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
+
 
 
 # 📝 Publications 
