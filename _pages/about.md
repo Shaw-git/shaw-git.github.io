@@ -32,10 +32,10 @@ My research interest includes:
 - *2024.06*: &nbsp;⭐⭐ Xiao Li presented the work **"A Data-driven Approach for Probabilistic Traffic Prediction and Simulation at Signalized Intersections"** at 2024 IEEE Intelligent Vehicles Symposium (IV) in Jeju, Korea.
 - *2024.04*: &nbsp;🎉🎉 Our paper **"An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation" has been accepted"** has been accepted in **IEEE Transactions on Intelligent Transportation Systems**.
 - *2024.03*: &nbsp;🥇🥇 Congratulations to Xiao Li on being selected as the Gartner Group Graduate Fellowship recipient at UFL!
-- *2024.03*  &nbsp;⭐⭐ Xiao Li presented the work **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** at the DCC Conference in Snowbird, Utah.
-- *2024.01*: &nbsp;🎉🎉 Our paper **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** has been accepted in **Data Compression Conference**.
+- *2024.03*: &nbsp;⭐⭐ Xiao Li presented the work **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** at the DCC Conference in Snowbird, Utah.
+- *2024.01*: &nbsp;🎉🎉 Our work **"Hybrid Approaches for Data Reduction of Spatiotemporal Scientific Applications"** has been accepted in **Data Compression Conference**.
 - *2023.07*: &nbsp;🎉🎉 Our paper  **"A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications"** has been accepted in **IEEE Intelligent Transportation Systems Conference**.
-- *2023.05*: &nbsp;🎉🎉 Our paper  **"Computer-aided autism spectrum disorder diagnosis with behavior signal processing"** has been accepted in **IEEE Transactions on Affective Computing**.
+- *2023.05*: &nbsp;🎉🎉 Our work **"Computer-aided autism spectrum disorder diagnosis with behavior signal processing"** has been accepted in **IEEE Transactions on Affective Computing**.
 - *2023.03*: &nbsp;🎉🎉 Our paper  **"An Efficient Semi-Automated Scheme for LiDAR Annotation and A Benchmark Infrastructure Dataset"** has been accepted in **ICLR ML4IoT**.
 - *2022.11*: &nbsp;🎉🎉 Our paper  **"Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network"** has been accepted in **IEEE Transactions on Multimedia**.
 - *2021.09*: &nbsp;🎉🎉 Our paper  **"Concurrent Two-factor Identify Verification Using Facial Identify and Facial Actions"** has been accepted in **Electronic Imaging**.
@@ -88,8 +88,11 @@ My research interest includes:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.08 - 2020.12*, Duke Kunshan University, China.
+- *2019.08 - 2019.12*, Duke Kunshan University, China.
 
 
 # 📚 Teaching Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- CAP6610 Spring 2024 - Machine Learning
+- COT5615 Fall 2023 - Math for Intelligent Systems
+- COP3530 Fall 2021 - Data Structure and Algorithms
