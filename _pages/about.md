@@ -43,13 +43,13 @@ My research interest includes:
 # 📖 Education
 
 - *2021.08 - Present*: Ph.D. Student in Computer Science, University of Florida  
-  ![UF Logo](path/to/uf_logo.png) <!-- Replace with the path to the University of Florida logo -->
+  ![UF Logo](images/uflogo.png) <!-- Replace with the path to the University of Florida logo -->
   
 - *2018.08 - 2020.08*: M.S. in Electronics and Communication, Sun Yat-sen University  
-  ![SYSU Logo](path/to/sysu_logo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
+  ![SYSU Logo](images/uflogo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
 
 - *2014.08 - 2018.08*: B.S. in Communication Engineering, Sun Yat-sen University  
-  ![SYSU Logo](path/to/sysu_logo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
+  ![SYSU Logo](images/uflogo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
 
 
 
