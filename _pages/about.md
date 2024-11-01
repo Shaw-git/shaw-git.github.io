@@ -20,7 +20,7 @@ redirect_from:
 I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Dr. Dong Zhang. My research interests lie in applying deep learning to solve practical problems. In particular, I have been developing deep learning models in the applications of computer vision. 
 
 My research interest includes:
-- Vision-based pose estimation
+- Smart transportation
 - Unsupervised learning
 - Error bounded lossy data compression
 - Generative AI
