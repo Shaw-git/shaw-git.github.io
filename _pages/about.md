@@ -42,14 +42,26 @@ My research interest includes:
 
 # 📖 Education
 
-- *2021.08 - Present*: Ph.D. Student in Computer Science, University of Florida  
-  ![UF Logo](images/uflogo.png) <!-- Replace with the path to the University of Florida logo -->
-  
-- *2018.08 - 2020.08*: M.S. in Electronics and Communication, Sun Yat-sen University  
-  ![SYSU Logo](images/uflogo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
+<div style="display: flex; align-items: center;">
+    <img src="images/uflogo.png" alt="UF Logo" style="height: 30px; margin-right: 8px;"> 
+    <span><strong>University of Florida</strong></span>
+</div>
+<p style="margin: 0;"><em>Ph.D. Student in Computer Science</em></p>
+<p><em>2021.08 - Present</em></p>
 
-- *2014.08 - 2018.08*: B.S. in Communication Engineering, Sun Yat-sen University  
-  ![SYSU Logo](images/uflogo.png) <!-- Replace with the path to Sun Yat-sen University logo -->
+<div style="display: flex; align-items: center;">
+    <img src="images/sysulogo.png" alt="SYSU Logo" style="height: 30px; margin-right: 8px;"> 
+    <span><strong>Sun Yat-sen University</strong></span>
+</div>
+<p style="margin: 0;"><em>M.S. in Electronics and Communication</em></p>
+<p><em>2018.08 - 2020.08</em></p>
+
+<div style="display: flex; align-items: center;">
+    <img src="images/sysulogo.png" alt="SYSU Logo" style="height: 30px; margin-right: 8px;"> 
+    <span><strong>Sun Yat-sen University</strong></span>
+</div>
+<p style="margin: 0;"><em>B.S. in Communication Engineering</em></p>
+<p><em>2014.08 - 2018.08</em></p>
 
 
 
