@@ -46,24 +46,24 @@ My research interest includes:
     <img src="images/uflogo.png" alt="UF Logo" style="height: 60px; margin-right: 8px;"> 
     <span><strong>University of Florida</strong></span>
 </div>
-<p style="margin: 0;"><em>- Ph.D. Student in Computer Science</em></p>
-<p style="margin: 0;"><em>- Advisor: <a href="https://sanjayranka.com/">Prof. Ranka Sanjay</a>, Co-advised by <a href="https://www.cise.ufl.edu/~anand/">Prof. Anand Rangarajan</a></em></p>
-<p><em>2021.08 - Present</em></p>
+<p style="margin: 0; padding-left: 30px;"><em>- Ph.D. Student in Computer Science</em></p>
+<p style="margin: 0; padding-left: 30px;"><em>- Advisor: <a href="https://sanjayranka.com/">Prof. Ranka Sanjay</a>, Co-advised by <a href="https://www.cise.ufl.edu/~anand/">Prof. Anand Rangarajan</a></em></p>
+<p style="padding-left: 30px;"><em>2021.08 - Present</em></p>
 
 <div style="display: flex; align-items: center;">
     <img src="images/sysulogo.png" alt="SYSU Logo" style="height: 60px; margin-right: 8px;"> 
     <span><strong>Sun Yat-sen University</strong></span>
 </div>
-<p style="margin: 0;"><em>- M.S. in Electronics and Communication</em></p>
-<p style="margin: 0;"><em>- Advisor: <a href="#">Prof. Dong Zhang</a></em></p>
-<p><em>2018.08 - 2020.08</em></p>
+<p style="margin: 0; padding-left: 30px;"><em>- M.S. in Electronics and Communication</em></p>
+<p style="margin: 0; padding-left: 30px;"><em>- Advisor: <a href="#">Prof. Dong Zhang</a></em></p>
+<p style="padding-left: 30px;"><em>2018.08 - 2020.08</em></p>
 
 <div style="display: flex; align-items: center;">
     <img src="images/sysulogo.png" alt="SYSU Logo" style="height: 60px; margin-right: 8px;"> 
     <span><strong>Sun Yat-sen University</strong></span>
 </div>
-<p style="margin: 0;"><em>- B.S. in Communication Engineering</em></p>
-<p><em>2014.08 - 2018.08</em></p>
+<p style="margin: 0; padding-left: 30px;"><em>- B.S. in Communication Engineering</em></p>
+<p style="padding-left: 30px;"><em>2014.08 - 2018.08</em></p>
 
 
 # 📝 Publications 
