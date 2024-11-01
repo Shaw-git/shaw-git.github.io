@@ -84,10 +84,13 @@ My research interest includes:
 
 
 # 👨‍💻 Professional Services
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+Paper Reviewer:
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS) (2024)
+- Machine vision and applications (2023)
 
-# 💻 Internships
+  
+# 💻 Internships 
+
 - *2020.08 - 2020.12*, Duke Kunshan University, China.
 - *2019.08 - 2019.12*, Duke Kunshan University, China.
 
