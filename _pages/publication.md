@@ -95,6 +95,18 @@
 ## Advanced Human Pose and Identity Recognition Techniques
 
 <div class="publication-card">
+    <strong>Title:</strong> Computer-Aided Autism Spectrum Disorder Diagnosis with Behavior Signal Processing<br>
+    <strong>Authors:</strong> Ming Cheng, Yingying Zhang, Yixiang Xie, Yueran Pan, <span style="color: red;">Xiao Li</span>, Wenxing Liu, etc.<br>
+    <strong>Published in:</strong> Sensors 2018 <br>
+    <div class="publication-links">
+        <a href="https://library.imaging.org/ei/articles/33/6/art00010" class="btn">Paper</a>
+        <a href="#" class="btn">Abstract</a>
+        <a href="#" class="btn">Project page</a>
+        <a href="#" class="btn">Bibtex</a>
+    </div>
+</div>
+
+<div class="publication-card">
     <strong>Title:</strong> Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network<br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Dong Zhang, Ming Li, Dah-Jye Lee<br>
     <strong>Published in:</strong> IEEE Transactions on Multimedia 2022<br>
@@ -131,5 +143,6 @@
         <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
+
 
 
