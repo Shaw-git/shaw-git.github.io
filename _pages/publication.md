@@ -5,7 +5,7 @@
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
     <strong>Published in:</strong> Submitted to PAKDD<br>
     <div class="publication-links">
-        <a href="arXiv preprint arXiv:2412.17184" class="btn">Paper</a>
+        <a href="https://arxiv.org/pdf/2412.17184" class="btn">Paper</a>
         <a href="#" class="btn">Abstract</a>
         <a href="#" class="btn">Project page</a>
         <a href="#" class="btn">Bibtex</a>
