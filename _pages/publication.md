@@ -1,4 +1,17 @@
 ## Machine Learning Method for Data Compression with Guaranteed Error Bound
+
+<div class="publication-card">
+    <strong>Title:</strong> Foundation Model for Lossy Compression of Spatiotemporal Scientific Data<br>
+    <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
+    <strong>Published in:</strong> Submitted to PAKDD<br>
+    <div class="publication-links">
+        <a href="arXiv preprint arXiv:2412.17184" class="btn">Paper</a>
+        <a href="#" class="btn">Abstract</a>
+        <a href="#" class="btn">Project page</a>
+        <a href="#" class="btn">Bibtex</a>
+    </div>
+</div>
+
 <div class="publication-card">
     <strong>Title:</strong> Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds<br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
@@ -26,7 +39,7 @@
 <div class="publication-card">
     <strong>Title:</strong> Machine Learning Techniques for Data Reduction of Climate Applications<br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Qian Gong, Jaemoon Lee, Scott Klasky, Anand Rangarajan, Sanjay Ranka<br>
-    <strong>Published in:</strong> Under Review of AAAI 2025<br>
+    <strong>Published in:</strong> Under Review of PAKDD 2025<br>
     <div class="publication-links">
         <a href="https://arxiv.org/abs/2405.00879" class="btn">Paper</a>
         <a href="#" class="btn">Abstract</a>
