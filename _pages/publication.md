@@ -164,7 +164,7 @@
 [Inverse Piezoresistive Nanocomposite Sensors for Identifying Human Sitting Posture](https://library.imaging.org/ei/articles/33/6/art00010)
 
 Zhe Qian, Anton E Bowden, Dong Zhang, Jia Wan, Wei Liu, <span style="color: red;">Xiao Li</span>, Daniel Baradoy, David T Fullwood
-- IEEE Sensors 2018.
+- Published in: Sensors 2018
 </div>
 </div>
 
