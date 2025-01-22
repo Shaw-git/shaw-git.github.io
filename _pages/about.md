@@ -86,7 +86,7 @@ My research interest includes:
 
 
 {% capture publication_content %}
-{% include_relative _index.md %}
+{% include_relative heaedpose3D/index.md %}
 {% endcapture %}
 
 {{ publication_content | markdownify }}
