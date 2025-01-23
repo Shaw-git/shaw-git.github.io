@@ -91,27 +91,6 @@ My research interest includes:
             <p>Hand-Computer Intection, Deep Learning, Hand Pose Estimation</p>
         </a>
     </div>
-    <div class="project-card">
-        <a href="/project2/">
-            <img src="images/project2_thumbnail.png" alt="Project 2">
-            <h3>Project 2: Title</h3>
-            <p>Short description of the project. This will be a concise summary.</p>
-        </a>
-    </div>
-    <div class="project-card">
-        <a href="/project3/">
-            <img src="images/project3_thumbnail.png" alt="Project 3">
-            <h3>Project 3: Title</h3>
-            <p>Short description of the project. This will be a concise summary.</p>
-        </a>
-    </div>
-    <div class="project-card">
-        <a href="/project4/">
-            <img src="images/project4_thumbnail.png" alt="Project 4">
-            <h3>Project 4: Title</h3>
-            <p>Short description of the project. This will be a concise summary.</p>
-        </a>
-    </div>
 </div>
 
 
