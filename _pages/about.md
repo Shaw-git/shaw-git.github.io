@@ -84,8 +84,8 @@ My research interest includes:
     <div class="project-card">
         <a href="/project1/">
             <img src="images/project1_thumbnail.png" alt="Project 1">
-            <h3>Project 1: Title</h3>
-            <p>Short description of the project. This will be a concise summary.</p>
+            <h3>Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network.</h3>
+            <p>Hand-Computer Intection, Deep Learning, Hand Pose Estimation</p>
         </a>
     </div>
     <div class="project-card">
