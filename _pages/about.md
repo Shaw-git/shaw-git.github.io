@@ -83,24 +83,6 @@ My research interest includes:
 
 
 # 📝 Projects
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2016</div>
-      <video width="80%" controls>
-        <source src="_pages/hand-computer-interaction/Cyberpunk_bili.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [Deep Residual Learning for Image Recognition](?)
-
-    **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
-    [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
-    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  </div>
-</div>
 
 
 <div class='paper-box'>
@@ -115,10 +97,6 @@ My research interest includes:
   </div>
   <div class='paper-box-text' markdown="1">
     <a href="#">Deep Residual Learning for Image Recognition</a>
-
-    <strong>Kaiming He</strong>, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC" target="_blank"><strong>Project</strong></a> 
-    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </div>
 </div>
 
