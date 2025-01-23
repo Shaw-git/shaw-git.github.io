@@ -80,6 +80,9 @@ My research interest includes:
 
 {{ publication_content | markdownify }}
 
+
+# 📝 Projects
+
 <div class="projects-container">
     <div class="project-card">
         <a href="/project1/">
