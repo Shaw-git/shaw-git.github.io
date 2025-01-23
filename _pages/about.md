@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Prof. Dong Zhang. My research focuses on applying deep learning to solve practical problems. Currently, I am working on developing foundational models for lossy data compression using conditional diffusion.
+I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Prof. Dong Zhang. My research focuses on applying deep learning to solve practical problems. Currently, I am working on developing foundational diffusion models for lossy data compression and spatio-temporal data generation.
 
 My research interest includes:
 - Smart transportation
@@ -29,7 +29,7 @@ My research interest includes:
 # 🔥 News
 - *2024.12*: &nbsp;⭐⭐ Our work **"Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression"** has been submitted to PAKDD conference.
 - *2024.12*: &nbsp;⭐⭐ Our work **"Foundation Model for Lossy Compression of Spatiotemporal Scientific Data"** has been submitted to PAKDD conference.
-- *2024.12*: &nbsp;⭐⭐ Xiao Li will present the work **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** at IEEE BigData 2024 in Washington DC, USA.
+- *2024.12*: &nbsp;⭐⭐ Xiao Li presented the work **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** at IEEE BigData 2024 in Washington DC, USA.
 - *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted in **IEEE BigData 2024**.
 - *2024.06*: &nbsp;⭐⭐ Xiao Li presented the work **"A Data-driven Approach for Probabilistic Traffic Prediction and Simulation at Signalized Intersections"** at 2024 IEEE Intelligent Vehicles Symposium (IV) in Jeju, Korea.
 - *2024.04*: &nbsp;🎉🎉 Our paper **"An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation" has been accepted"** has been accepted in **IEEE Transactions on Intelligent Transportation Systems**.
@@ -113,10 +113,15 @@ Paper Reviewer:
 - Machine vision and applications (2023)
 
   
-# 💻 Internships 
+# 💻 Professional Experience and Internships
 
-- *2020.08 - 2020.12*, Duke Kunshan University, China.
-- *2019.08 - 2019.12*, Duke Kunshan University, China.
+- **2020.12 - 2021.08**: *CVTE (Software Development Engineer)*  
+  - Worked on hand-computer interaction for XR devices.
+
+- **2020.08 - 2020.12**: *Duke Kunshan University, China*  
+
+- **2019.08 - 2019.12**: *Duke Kunshan University, China*  
+
 
 
 # 📚 Teaching Experience
