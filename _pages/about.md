@@ -80,6 +80,37 @@ My research interest includes:
 
 {{ publication_content | markdownify }}
 
+<div class="projects-container">
+    <div class="project-card">
+        <a href="/project1/">
+            <img src="images/project1_thumbnail.png" alt="Project 1">
+            <h3>Project 1: Title</h3>
+            <p>Short description of the project. This will be a concise summary.</p>
+        </a>
+    </div>
+    <div class="project-card">
+        <a href="/project2/">
+            <img src="images/project2_thumbnail.png" alt="Project 2">
+            <h3>Project 2: Title</h3>
+            <p>Short description of the project. This will be a concise summary.</p>
+        </a>
+    </div>
+    <div class="project-card">
+        <a href="/project3/">
+            <img src="images/project3_thumbnail.png" alt="Project 3">
+            <h3>Project 3: Title</h3>
+            <p>Short description of the project. This will be a concise summary.</p>
+        </a>
+    </div>
+    <div class="project-card">
+        <a href="/project4/">
+            <img src="images/project4_thumbnail.png" alt="Project 4">
+            <h3>Project 4: Title</h3>
+            <p>Short description of the project. This will be a concise summary.</p>
+        </a>
+    </div>
+</div>
+
 
 # 📝 Projects
 <!--
