@@ -85,15 +85,14 @@ My research interest includes:
 # 📝 Projects
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
+[Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network.](https://ieeexplore.ieee.org/document/10217826)
 
-**Ming Zhan**, Jingjing Fan, Jianying Guo
+**Xiao Li**, Hui Hu
 
-[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
-- IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
+[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
 </div>
 </div>
 
