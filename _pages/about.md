@@ -85,7 +85,7 @@ My research interest includes:
 # 📝 Projects
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network.](https://ieeexplore.ieee.org/document/10217826)
@@ -93,6 +93,7 @@ My research interest includes:
 **Xiao Li**, Hui Hu
 
 [**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+</div>
 </div>
 
 # 🎖 Honors and Awards
