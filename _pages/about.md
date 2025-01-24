@@ -94,7 +94,6 @@ My research interest includes:
 
 [**Project Page**](https://ieeexplore.ieee.org/document/10217826)
 </div>
-</div>
 
 # 🎖 Honors and Awards
 - *2024.05* Gartner Group Graduate Fellowship
