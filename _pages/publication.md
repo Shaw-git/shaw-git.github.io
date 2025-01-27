@@ -1,12 +1,9 @@
 ## Foundation Models for Error-Bounded Lossy Data Compression
 
 <div class="publication-card">
-    <strong>Title:</strong> Foundation Model for Lossy Compression of Spatiotemporal Scientific Data<br>
+    <strong>Title:</strong> <a href="https://arxiv.org/pdf/2412.17184">Foundation Model for Lossy Compression of Spatiotemporal Scientific Data</a><br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
     <strong>Published in:</strong> Submitted to PAKDD<br>
-    <div class="publication-links">
-        <a href="https://arxiv.org/pdf/2412.17184" class="btn">Paper</a>
-    </div>
 </div>
 
 <div class="publication-card">
