@@ -3,6 +3,7 @@ title: '3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras'
 subtitle: Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 summary: Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 permalink: /headpose3D/
+layout: single
 authors:
 - admin
 - Dong Zhang
