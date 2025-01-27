@@ -88,9 +88,9 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network
+**Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network**
 
-Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
+Hand-Computer Intection, Deep Learning, Hand Keypoints Estimation, Mesh Deformation.
 
 **Xiao Li**, Hui Hu
 
@@ -101,7 +101,7 @@ Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose3D/head3d.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras
+**3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras**
 
 Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 
@@ -115,9 +115,9 @@ Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose/realtime_head.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network
+**Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network**
 
-Head Pose Estimation, Image Rectification, Convolutional Neural Networks
+Head Pose Estimation, Image Rectification, Lightweighted Convolutional Neural Networks
 
 **Xiao Li**, Dong Zhang
 
@@ -129,9 +129,9 @@ Head Pose Estimation, Image Rectification, Convolutional Neural Networks
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/eye-tracking/head_gaze.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Appearance-Based Gaze Estimation from Full Face Image
+**Appearance-Based Gaze Estimation from Full Face Image**
 
-Gaze Estimation, Attention Analysis, Deep Learning
+Gaze Estimation, Attention Analysis, Gaze-Computer Interaction
 
 **Xiao Li**, Dong Zhang
 
