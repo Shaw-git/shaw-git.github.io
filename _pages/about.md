@@ -135,7 +135,7 @@ Gaze Estimation, Attention Analysis, Gaze-Computer Interaction
 
 **Xiao Li**, Dong Zhang
 
-[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+[**Project Page**](https://shaw-git.github.io/eye-tracking/index)
 </div>
 </div>
 
