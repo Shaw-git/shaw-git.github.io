@@ -85,10 +85,10 @@ My research interest includes:
 # 📝 Projects
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network](https://ieeexplore.ieee.org/document/10217826)
+Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network
 
 Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 
@@ -98,10 +98,10 @@ Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose3D/head3d.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose3D/head3d.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras](https://ieeexplore.ieee.org/document/10217826)
+3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras
 
 Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 
@@ -112,10 +112,10 @@ Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose/realtime_head.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose/realtime_head.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network](https://ieeexplore.ieee.org/document/10217826)
+Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network
 
 Head Pose Estimation, Image Rectification, Convolutional Neural Networks
 
@@ -126,10 +126,10 @@ Head Pose Estimation, Image Rectification, Convolutional Neural Networks
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/eye-tracking/head_gaze.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/eye-tracking/head_gaze.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Appearance-Based Gaze Estimation from Full Face Image](https://ieeexplore.ieee.org/document/10217826)
+Appearance-Based Gaze Estimation from Full Face Image
 
 Gaze Estimation, Attention Analysis, Deep Learning
 
