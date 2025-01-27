@@ -29,6 +29,20 @@ In order to evaluate the performance of our method, we adopted three commonly us
 
 {{< figure src="./result.png" caption="Size and Average Error Comparisons on the BIWI Dataset and the 300W-LP Dataset" numbered="true" >}}
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose/result.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Appearance-Based Gaze Estimation from Full Face Image**
+
+Gaze Estimation, Attention Analysis, Gaze-Computer Interaction
+
+**Xiao Li**, Dong Zhang
+
+[**Project Page**](https://shaw-git.github.io/eye-tracking/index)
+</div>
+</div>
+
+
 To fully understand the performance of the proposed lightweight network, we conducted an experiment to test the processing speed of our network. We compared our network with three state-of-the-art networks with reasonably small model size.
 
 {{< figure src="speed.png" caption="Model Size and Running Speed on NVIDIA GeForce GTX 1080Ti" numbered="true" >}}
