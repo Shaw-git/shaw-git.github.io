@@ -1,17 +1,13 @@
 ---
-title: Appearance-Based Gaze Estimation from Full Face Image
-subtitle: Gaze Estimation, Attention Analysis, Deep Learning
-summary: Gaze Estimation, Attention Analysis, Deep Learning
+title: "Appearance-Based Gaze Estimation from Full Face Image"
+subtitle: "Gaze Estimation, Attention Analysis, Deep Learning"
+summary: "Gaze Estimation, Attention Analysis, Deep Learning"
+layout: single
+permalink: /eye-tracking/
 authors:
-- admin
-- Dong Zhang
-# tags:
-# - Academic
-# - 开源
-# categories:
-# - Demo
+  - admin
+  - Dong Zhang
 date: "2019-09-20T00:00:00Z"
-# lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
 
