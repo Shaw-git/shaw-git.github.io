@@ -1,4 +1,4 @@
-## Machine Learning Method for Data Compression with Guaranteed Error Bound
+## Foundation Models for Error-Bounded Lossy Data Compression
 
 <div class="publication-card">
     <strong>Title:</strong> Foundation Model for Lossy Compression of Spatiotemporal Scientific Data<br>
@@ -150,7 +150,7 @@
     <strong>Authors:</strong> Zhe Qian, Anton E Bowden, Dong Zhang, Jia Wan, Wei Liu, <span style="color: red;">Xiao Li</span>, Daniel Baradoy, David T Fullwood<br>
     <strong>Published in:</strong> Sensors 2018 <br>
     <div class="publication-links">
-        <a href="https://library.imaging.org/ei/articles/33/6/art00010" class="btn">Paper</a>
+        <a href="https://www.mdpi.com/1424-8220/18/6/1745" class="btn">Paper</a>
         <a href="#" class="btn">Abstract</a>
         <a href="#" class="btn">Project page</a>
         <a href="#" class="btn">Bibtex</a>
