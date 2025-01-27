@@ -2,6 +2,7 @@
 title: Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network.
 subtitle: Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 summary: Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
+permalink: /hand-computer-interaction/
 authors:
 - admin
 - Hui Hu
