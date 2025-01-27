@@ -17,13 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at the University of Florida under the supervision of [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/) . I got my bachelor's degree and master's degree at Sun Yat-Sen University in 2018 and 2020 respectively under the supervision of Prof. Dong Zhang. My research focuses on applying deep learning to solve practical problems. Currently, I am working on developing foundational diffusion models for lossy data compression and spatio-temporal data generation.
+# About Me
 
-My research interest includes:
-- Smart transportation
-- Unsupervised learning
-- Error bounded lossy data compression
+I am a Ph.D. student at the University of Florida, supervised by [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/), and I will graduate in Fall 2025. I earned my bachelor's and master's degrees at Sun Yat-Sen University under the supervision of Prof. Dong Zhang in 2018 and 2020, respectively. My research focuses on applying deep learning to solve practical problems, with expertise spanning data compression, smart transportation, AI for science (e.g., climate modeling, turbulence), and human-computer interaction.
+
+Currently, I am working on foundational diffusion models for error-bounded lossy data compression and spatiotemporal data generation. I also have experience with foundation models, unsupervised learning, point cloud data processing, and gesture, gaze, and pose estimation, as well as designing and building large-scale datasets.
+
+I am actively seeking a summer internship in 2025, with the goal of securing a return offer to begin full-time work at the end of 2025.
+
+## Research Interests:
+- Smart Transportation  
+- Unsupervised Learning  
+- Error-bounded Lossy Data Compression  
 - Generative AI
+
 
 
 # 🔥 News
