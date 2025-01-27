@@ -6,9 +6,6 @@
     <strong>Published in:</strong> Submitted to PAKDD<br>
     <div class="publication-links">
         <a href="https://arxiv.org/pdf/2412.17184" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -18,9 +15,6 @@
     <strong>Published in:</strong> IEEE International Conference on Big Data 2024<br>
     <div class="publication-links">
         <a href="https://arxiv.org/pdf/2409.05357" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -30,9 +24,6 @@
     <strong>Published in:</strong> Data Compression Conference 2024<br>
     <div class="publication-links">
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10533816" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -42,9 +33,6 @@
     <strong>Published in:</strong> Under Review of PAKDD 2025<br>
     <div class="publication-links">
         <a href="https://arxiv.org/abs/2405.00879" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -54,9 +42,6 @@
     <strong>Published in:</strong> Under Review of The International Conference on Contemporary Computing (I3C) 2025<br>
     <div class="publication-links">
         <a href="#" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -74,9 +59,6 @@
     <strong>Published in:</strong> IEEE Transactions on Intelligent Transportation Systems (T-ITS) 2024<br>
     <div class="publication-links">
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10537073" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -86,9 +68,6 @@
     <strong>Published in:</strong> IEEE Intelligent Transportation Systems Conference (ITSC) 2023<br>
     <div class="publication-links">
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10422461" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -99,9 +78,6 @@
     <strong>Published in:</strong> ML4IoT Workshop@ICLR'2023<br>
     <div class="publication-links">
         <a href="https://iclr.cc/virtual/2023/14756" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -113,9 +89,6 @@
     <strong>Published in:</strong> Sensors 2018 <br>
     <div class="publication-links">
         <a href="https://library.imaging.org/ei/articles/33/6/art00010" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -125,9 +98,6 @@
     <strong>Published in:</strong> IEEE Transactions on Multimedia 2022<br>
     <div class="publication-links">
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693249" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -138,9 +108,6 @@
     <strong>Published in:</strong> Electronic Imaging 2021 <br>
     <div class="publication-links">
         <a href="https://library.imaging.org/ei/articles/33/6/art00010" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
@@ -151,9 +118,6 @@
     <strong>Published in:</strong> Sensors 2018 <br>
     <div class="publication-links">
         <a href="https://www.mdpi.com/1424-8220/18/6/1745" class="btn">Paper</a>
-        <a href="#" class="btn">Abstract</a>
-        <a href="#" class="btn">Project page</a>
-        <a href="#" class="btn">Bibtex</a>
     </div>
 </div>
 
