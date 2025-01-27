@@ -88,9 +88,46 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><img src='_pages/hand-computer-interaction/hand_gif.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network.](https://ieeexplore.ieee.org/document/10217826)
+[Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network](https://ieeexplore.ieee.org/document/10217826)
+Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 
 **Xiao Li**, Hui Hu
+
+[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose3D/head3d.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras](https://ieeexplore.ieee.org/document/10217826)
+
+Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
+**Xiao Li**, Dong Zhang
+
+[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/headpose/realtime_head.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network](https://ieeexplore.ieee.org/document/10217826)
+Head Pose Estimation, Image Rectification, Convolutional Neural Networks
+**Xiao Li**, Dong Zhang
+
+[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='_pages/eye-tracking/head_gaze.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Appearance-Based Gaze Estimation from Full Face Image](https://ieeexplore.ieee.org/document/10217826)
+
+**Xiao Li**, Dong Zhang
 
 [**Project Page**](https://ieeexplore.ieee.org/document/10217826)
 </div>
@@ -113,7 +150,7 @@ Paper Reviewer:
   
 # 💻 Professional Experience and Internships
 
-- **2020.12 - 2021.08**: *CVTE (Software Development Engineer)*  
+- **2020.12 - 2021.08**: *CVTE (Research Assistant)*  
   - Worked on hand-computer interaction for XR headset.
 
 - **2020.08 - 2020.12**: *Duke Kunshan University, China*  
