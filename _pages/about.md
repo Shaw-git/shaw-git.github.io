@@ -89,6 +89,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 [Real-Time 3D Hand Pose Estimation with Deep Heatmap-Based Network](https://ieeexplore.ieee.org/document/10217826)
+
 Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 
 **Xiao Li**, Hui Hu
@@ -103,6 +104,7 @@ Hand-Computer Intection, Deep Learning, Hand Pose Estimation.
 [3D Face Modeling and Head Pose Tracking with Comsumer RGB-D Cameras](https://ieeexplore.ieee.org/document/10217826)
 
 Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
+
 **Xiao Li**, Dong Zhang
 
 [**Project Page**](https://ieeexplore.ieee.org/document/10217826)
@@ -114,7 +116,9 @@ Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 <div class='paper-box-text' markdown="1">
 
 [Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network](https://ieeexplore.ieee.org/document/10217826)
+
 Head Pose Estimation, Image Rectification, Convolutional Neural Networks
+
 **Xiao Li**, Dong Zhang
 
 [**Project Page**](https://ieeexplore.ieee.org/document/10217826)
@@ -126,6 +130,8 @@ Head Pose Estimation, Image Rectification, Convolutional Neural Networks
 <div class='paper-box-text' markdown="1">
 
 [Appearance-Based Gaze Estimation from Full Face Image](https://ieeexplore.ieee.org/document/10217826)
+
+Gaze Estimation, Attention Analysis, Deep Learning
 
 **Xiao Li**, Dong Zhang
 
