@@ -49,7 +49,7 @@ I am actively seeking a summer internship in 2025, with the goal of securing a r
 - *2022.11*: &nbsp;🎉🎉 Our paper  **"Accurate Head Pose Estimation Using Image Rectification and A Lightweight Convolutional Neural Network"** has been accepted in **IEEE Transactions on Multimedia**.
 - *2021.09*: &nbsp;🎉🎉 Our paper  **"Concurrent Two-factor Identify Verification Using Facial Identify and Facial Actions"** has been accepted in **Electronic Imaging**.
 
-# 📖 Education
+# 📖 Educations
 
 <div style="display: flex; align-items: center;">
     <img src="images/uflogo.png" alt="UF Logo" style="height: 60px; margin-right: 8px;"> 
