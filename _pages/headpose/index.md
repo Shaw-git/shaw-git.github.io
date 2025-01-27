@@ -2,6 +2,7 @@
 title: "Accurate Head Pose Estimation Using Image Rectification and Lightweight Convolutional Neural Network"
 subtitle: "Head Pose Estimation, Image Rectification, Convolutional Neural Networks"
 summary: "Head Pose Estimation, Image Rectification, Convolutional Neural Networks"
+layout: single
 permalink: /headpose/
 authors:
   - admin
