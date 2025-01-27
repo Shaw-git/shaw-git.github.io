@@ -36,17 +36,17 @@ In this work, We propose a method for estimating eye gaze direction from full fa
 
 ## Dataset
 Appearance-based gaze estimation requires a rich dataset containing different face appearances and accurate gaze annotations. However, existing eye-tracking datasets are limited by either the variation of face appearance or the accuracy of gaze annotations. In this work, we present the SYSUGaze dataset we collected from 105 participants by RGB-D Cameras. The participants are asked to fix their gazes on a small point randomly shown on a computer monitor. The location of gaze points and face images are recorded. We provide gaze directions and head poses of each face image, which are automatically annotated by depth image. 
-{{< figure src="datacollector.jpg" caption="Samples of SYSUGaze Dataset (left) and Data Collection (right)" numbered="true" >}}
+{{< figure src="./datacollector.jpg" caption="Samples of SYSUGaze Dataset (left) and Data Collection (right)" numbered="true" >}}
 
 
 ## Demo
 We test the proposed appearance-based eye tracking method in different cases. A white arrow is used to show the predicted eye gaze direction. Our prediction model shows good performance in case of eye occlusion and low image resolution. We design an interesting game where a space shooter is controlled by eye gaze. Besides, We also design an application which allows a user to insert password by eye gaze.
 
 * Demo 1 (Eye Occulsion Case)
-{{< video src="freegaze.mp4" controls="yes" >}}
+{{< video src="./freegaze.mp4" controls="yes" >}}
 * Demo 2 (Low Resolution Case)
-{{< video src="low_resolution.mp4" controls="yes" >}}
+{{< video src="./low_resolution.mp4" controls="yes" >}}
 * Demo 3 (Control Space Shooter by Eye Gaze)
-{{< video src="game.mp4" controls="yes" >}}
+{{< video src="./game.mp4" controls="yes" >}}
 * Demo 4 (Insert Password by Eye Gaze)
-{{< video src="password.mp4" controls="yes" >}}
+{{< video src="./password.mp4" controls="yes" >}}
