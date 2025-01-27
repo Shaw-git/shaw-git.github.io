@@ -94,7 +94,7 @@ Hand-Computer Intection, Deep Learning, Hand Keypoints Estimation, Mesh Deformat
 
 **Xiao Li**, Hui Hu
 
-[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+[**Project Page**](https://xiaoli-site.netlify.app/post/hand-computer-interaction/)
 </div>
 </div>
 
@@ -107,7 +107,7 @@ Point Cloud, 3D Geometry, Face Modeling, Head Pose Estimation
 
 **Xiao Li**, Dong Zhang
 
-[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+[**Project Page**](https://xiaoli-site.netlify.app/post/headpose3d/)
 </div>
 </div>
 
@@ -121,7 +121,7 @@ Head Pose Estimation, Image Rectification, Lightweighted Convolutional Neural Ne
 
 **Xiao Li**, Dong Zhang
 
-[**Project Page**](https://ieeexplore.ieee.org/document/10217826)
+[**Project Page**](https://xiaoli-site.netlify.app/post/headpose/)
 </div>
 </div>
 
@@ -135,7 +135,7 @@ Gaze Estimation, Attention Analysis, Gaze-Computer Interaction
 
 **Xiao Li**, Dong Zhang
 
-[**Project Page**](https://shaw-git.github.io/eye-tracking/index)
+[**Project Page**](https://xiaoli-site.netlify.app/post/eye-tracking/)
 </div>
 </div>
 
