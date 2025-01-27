@@ -27,7 +27,7 @@ Head pose estimation is an important step for many human-computer interaction ap
 
 In order to evaluate the performance of our method, we adopted three commonly used head pose estimation datasets: the BIWI Dataset, the AFLW2000, and the 300W-LP Dataset. The experiment results show that our method outperformed the state-of-the-art methods in terms of accuracy.
 
-{{< figure src="result.png" caption="Size and Average Error Comparisons on the BIWI Dataset and the 300W-LP Dataset" numbered="true" >}}
+{{< figure src="./result.png" caption="Size and Average Error Comparisons on the BIWI Dataset and the 300W-LP Dataset" numbered="true" >}}
 
 To fully understand the performance of the proposed lightweight network, we conducted an experiment to test the processing speed of our network. We compared our network with three state-of-the-art networks with reasonably small model size.
 
