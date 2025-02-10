@@ -3,7 +3,13 @@
 <div class="publication-card">
     <a href="https://arxiv.org/pdf/2412.17184" style="font-size: 15px; font-weight: bold;">Foundation Model for Lossy Compression of Spatiotemporal Scientific Data</a><br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
-    <strong>Published in:</strong> Submitted to PAKDD<br>
+    <strong>Published in:</strong> in Submission<br>
+</div>
+
+<div class="publication-card">
+    <a href="https://arxiv.org/abs/2405.00879" style="font-size: 15px; font-weight: bold;">Machine Learning Techniques for Data Reduction of Climate Applications</a><br>
+    <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Qian Gong, Jaemoon Lee, Scott Klasky, Anand Rangarajan, Sanjay Ranka<br>
+    <strong>Published in:</strong> Pacific-Asia Conference on Knowledge Discovery and Data Mining PAKDD 2025<br>
 </div>
 
 <div class="publication-card">
@@ -18,11 +24,7 @@
     <strong>Published in:</strong> Data Compression Conference 2024<br>
 </div>
 
-<div class="publication-card">
-    <a href="https://arxiv.org/abs/2405.00879" style="font-size: 15px; font-weight: bold;">Machine Learning Techniques for Data Reduction of Climate Applications</a><br>
-    <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Qian Gong, Jaemoon Lee, Scott Klasky, Anand Rangarajan, Sanjay Ranka<br>
-    <strong>Published in:</strong> Under Review of PAKDD 2025<br>
-</div>
+
 
 <div class="publication-card">
     <a href="#" style="font-size: 15px; font-weight: bold;">Machine Learning Techniques for Data Reduction of CFD Applications</a><br>
