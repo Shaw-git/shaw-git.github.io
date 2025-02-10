@@ -9,7 +9,7 @@
 <div class="publication-card">
     <a href="https://arxiv.org/abs/2405.00879" style="font-size: 15px; font-weight: bold;">Machine Learning Techniques for Data Reduction of Climate Applications</a><br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Qian Gong, Jaemoon Lee, Scott Klasky, Anand Rangarajan, Sanjay Ranka<br>
-    <strong>Published in:</strong> Pacific-Asia Conference on Knowledge Discovery and Data Mining PAKDD 2025<br>
+    <strong>Published in:</strong> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2025<br>
 </div>
 
 <div class="publication-card">
