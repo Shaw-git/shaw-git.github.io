@@ -3,7 +3,7 @@
 <div class="publication-card">
     <a href="https://arxiv.org/pdf/2412.17184" style="font-size: 15px; font-weight: bold;">Foundation Model for Lossy Compression of Spatiotemporal Scientific Data</a><br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
-    <strong>Published in:</strong> in Submission<br>
+    <strong>Published in:</strong> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2025 <br>
 </div>
 
 <div class="publication-card">
