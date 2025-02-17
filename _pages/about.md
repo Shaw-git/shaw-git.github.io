@@ -34,9 +34,8 @@ I am actively seeking a summer internship in 2025, with the goal of securing a r
 
 
 # 🔥 News
-
+- *2025.2*: &nbsp;🎉🎉 Our paper **"Foundation Model for Lossy Compression of Spatiotemporal Scientific Data"** has been accepted in Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 - *2025.2*: &nbsp;🎉🎉 Our paper **"Machine Learning Techniques for Data Reduction of Climate Applications"** has been accepted in Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
-- *2024.12*: &nbsp;⭐⭐ Our work **"Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression"** has been submitted to PAKDD conference.
 - *2024.12*: &nbsp;⭐⭐ Xiao Li presented the work **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** at IEEE BigData 2024 in Washington DC, USA.
 - *2024.10*: &nbsp;🎉🎉 Our paper **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** has been accepted in **IEEE BigData 2024**.
 - *2024.06*: &nbsp;⭐⭐ Xiao Li presented the work **"A Data-driven Approach for Probabilistic Traffic Prediction and Simulation at Signalized Intersections"** at 2024 IEEE Intelligent Vehicles Symposium (IV) in Jeju, Korea.
