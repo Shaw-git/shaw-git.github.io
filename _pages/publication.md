@@ -1,6 +1,13 @@
 ## Foundation Models for Error-Bounded Lossy Data Compression
 
 <div class="publication-card">
+    <a href="https://arxiv.org/abs/2502.12951" style="font-size: 15px; font-weight: bold;">Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression</a><br>
+    <strong>Authors:</strong>Jaemoon Lee, <span style="color: red;">Xiao Li</span>, Anand Rangarajan, Sanjay Ranka<br>
+    <strong>Published in:</strong> In submission <br>
+</div>
+
+
+<div class="publication-card">
     <a href="https://arxiv.org/pdf/2412.17184" style="font-size: 15px; font-weight: bold;">Foundation Model for Lossy Compression of Spatiotemporal Scientific Data</a><br>
     <strong>Authors:</strong> <span style="color: red;">Xiao Li</span>, Jaemoon Lee, Anand Rangarajan, Sanjay Ranka<br>
     <strong>Published in:</strong> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2025 <br>
