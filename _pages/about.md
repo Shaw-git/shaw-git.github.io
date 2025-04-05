@@ -23,7 +23,7 @@ I am a Ph.D. student at the University of Florida, supervised by [Prof. Sanjay R
 
 Currently, I am working on vision-language model for vision navigation and foundational diffusion models for data reduction and spatiotemporal data generation. I also have experience with unsupervised learning, point cloud data processing, and gesture, gaze, and pose estimation, as well as designing and building large-scale datasets.
 
-I am actively seeking a summer and fall internship in 2025, with the goal of securing a return offer to begin full-time work at the end of 2025.
+I am actively seeking summer and fall internships in 2025, with the goal of securing a return offer to begin full-time work at the end of 2025.
 
 ## Research Interests:
 - Generative AI
