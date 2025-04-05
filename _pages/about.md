@@ -19,21 +19,25 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student at the University of Florida, supervised by [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/), and I will graduate in Fall 2025. I earned my bachelor's and master's degrees at Sun Yat-Sen University under the supervision of Prof. Dong Zhang in 2018 and 2020, respectively. My research focuses on applying deep learning to solve practical problems, with expertise spanning data compression, smart transportation, AI for science (e.g., climate modeling, turbulence), and human-computer interaction.
+I am a Ph.D. student at the University of Florida, supervised by [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/), and I will graduate in Fall 2025. I earned my bachelor's and master's degrees at [Sun Yat-Sen University](https://www.sysu.edu.cn/) under the supervision of Prof. Dong Zhang in 2018 and 2020, respectively. My research focuses on applying deep learning to solve practical problems, with expertise spanning vision-language model, video generation, data compression, smart transportation, AI for science (e.g., climate modeling, turbulence), and human-computer interaction.
 
-Currently, I am working on foundational diffusion models for error-bounded lossy data compression and spatiotemporal data generation. I also have experience with foundation models, unsupervised learning, point cloud data processing, and gesture, gaze, and pose estimation, as well as designing and building large-scale datasets.
+Currently, I am working on vision-language model for vision navigation and foundational diffusion models for error-bounded lossy data compression and spatiotemporal data generation. I also have experience with unsupervised learning, point cloud data processing, and gesture, gaze, and pose estimation, as well as designing and building large-scale datasets.
 
 I am actively seeking a summer internship in 2025, with the goal of securing a return offer to begin full-time work at the end of 2025.
 
 ## Research Interests:
-- Smart Transportation  
-- Unsupervised Learning  
-- Error-bounded Lossy Data Compression  
 - Generative AI
+- Multimodal Language Model (MLLM)
+- Data Reduction
+- Smart Transportation  
+- Human-Computer Interaction  
+
 
 
 
 # 🔥 News
+- *2025.2*: &nbsp; Our paper **"Bridging Generation and Compression: Latent Diffusion for
+Efficient Spatiotemporal Data Reconstruction"** has been submitted in Supercomputing Conference (SC).
 - *2025.2*: &nbsp;🎉🎉 Our paper **"Foundation Model for Lossy Compression of Spatiotemporal Scientific Data"** has been accepted in Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 - *2025.2*: &nbsp;🎉🎉 Our paper **"Machine Learning Techniques for Data Reduction of Climate Applications"** has been accepted in Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 - *2024.12*: &nbsp;⭐⭐ Xiao Li presented the work **"Attention Based Machine Learning Methods for Data Reduction with Guaranteed Error Bounds"** at IEEE BigData 2024 in Washington DC, USA.
