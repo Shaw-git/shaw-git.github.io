@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student at the University of Florida, supervised by [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/), and I will graduate in Fall 2025. I earned my bachelor's and master's degrees at [Sun Yat-Sen University](https://www.sysu.edu.cn/) under the supervision of Prof. Dong Zhang in 2018 and 2020, respectively. My research focuses on applying deep learning to solve practical problems, with expertise spanning vision-language model, video generation, data compression, smart transportation, AI for science (e.g., climate modeling, turbulence), and human-computer interaction.
+I am a Ph.D. student at the University of Florida, supervised by [Prof. Sanjay Ranka](https://sanjayranka.com/) and [Prof. Anand Rangarajan](https://www.cise.ufl.edu/~anand/), and I will graduate in Fall 2025. I earned my bachelor's and master's degrees at [Sun Yat-Sen University](https://www.sysu.edu.cn/) under the supervision of Prof. Dong Zhang in 2018 and 2020, respectively. My research focuses on applying deep learning to solve practical problems, with expertise spanning vision-language model, generative AI, data compression, smart transportation, AI for science (e.g., climate modeling, turbulence), and human-computer interaction.
 
 Currently, I am working on vision-language model for vision navigation and foundational diffusion models for data reduction and spatiotemporal data generation. I also have experience with unsupervised learning, point cloud data processing, and gesture, gaze, and pose estimation, as well as designing and building large-scale datasets.
 
