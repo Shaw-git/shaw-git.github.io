@@ -36,7 +36,7 @@ I am actively seeking a summer internship in 2025, with the goal of securing a r
 
 
 # 🔥 News
-- *2025.2*: &nbsp; Our paper **"Bridging Generation and Compression: Latent Diffusion for
+- *2025.4*: &nbsp; Our paper **"Bridging Generation and Compression: Latent Diffusion for
 Efficient Spatiotemporal Data Reconstruction"** has been submitted in Supercomputing Conference (SC).
 - *2025.2*: &nbsp;🎉🎉 Our paper **"Foundation Model for Lossy Compression of Spatiotemporal Scientific Data"** has been accepted in Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 - *2025.2*: &nbsp;🎉🎉 Our paper **"Machine Learning Techniques for Data Reduction of Climate Applications"** has been accepted in Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
