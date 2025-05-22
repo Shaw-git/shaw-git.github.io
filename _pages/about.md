@@ -167,7 +167,7 @@ Paper Reviewer:
   
 # 💻 Professional Experience and Internships
 
-- **2020.12 - 2021.08**: *CVTE (Research Assistant)*  
+- **2020.12 - 2021.08**: *CVTE (VR Engineer)*  
   - Worked on hand-computer interaction for XR headset.
 
 - **2020.08 - 2020.12**: *Duke Kunshan University, China*  
